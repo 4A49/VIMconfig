@@ -1,4 +1,3 @@
-VIMRC
 my windows vim config for rust development and basic text editing
 
 
