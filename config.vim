@@ -6,6 +6,10 @@ set nu
 set laststatus=2
 
 
+set nu
+syntax on
+set tabstop=2
+set autoindent
 
 call plug#begin('~/vimfiles/plugged')
 Plug 'itchyny/lightline.vim'
